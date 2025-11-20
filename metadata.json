@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Equitable - Divorce Financial Analysis AI",
+  "description": "AI-powered forensic accounting tool for California divorce cases. Analyzes bank statements, crypto wallets, and spreadsheets to determine standard of living discrepancies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
